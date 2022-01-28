@@ -10,6 +10,7 @@ This Repo was maintained for the Girlscript Session Day 26 | WIT
 
 
 
+<p align='center'>
 ## Environment
 
 To run this project, you will need to add the following environment
@@ -23,6 +24,7 @@ To run this project, you will need to add the following environment
 [![Equatable](https://img.shields.io/badge/Equatable-02569B?style=for-the-badge&logo=&logoColor=white)](https://pub.dev/packages/equatable)
 
 [![Dio](https://img.shields.io/badge/Dio-02569B?style=for-the-badge&logo=&logoColor=white)](https://pub.dev/packages/dio)
+</p>
 
 
 
