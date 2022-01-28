@@ -32,8 +32,10 @@ To run this project, you will need to add the following environment
   💻 Versions<br/><br/>
  
   <img src="https://img.shields.io/badge/v2.15.0-Dart-yellow.svg" />
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/v2.8.1-Flutter-blue.svg" />
+  <img src="https://img.shields.io/badge/v8.0.1-Bloc-red.svg" />
+  <img src="https://img.shields.io/badge/v2.0.3-Equatable-black.svg" />
+  <img src="https://img.shields.io/badge/v4.0.4-Dio-Pink.svg" />
 </p>
 
 
@@ -43,8 +45,7 @@ To run this project, you will need to add the following environment
 
 
 
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
-[![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
+
 
 
 ## Reference
