@@ -29,9 +29,9 @@ To run this project, you will need to add the following environment
 
 
 <p align='center'>
-  💻 My workspace<br/><br/>
-  <img src="https://img.shields.io/apm/l/atomic-design-ui.svg?" />
-  <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
+  💻 Versions<br/><br/>
+ 
+  <img src="https://img.shields.io/badge/v2.15.0-Dart-yellow.svg" />
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
@@ -40,11 +40,9 @@ To run this project, you will need to add the following environment
 
 
 
-## Badges
 
-Add badges from somewhere like: [shields.io](https://shields.io/)
 
-[![Youtube Link](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 [![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)](http://www.gnu.org/licenses/agpl-3.0)
 
